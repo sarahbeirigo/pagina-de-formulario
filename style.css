@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-size: 100%;
+  list-style-type: none;
+  font: 1rem "Inter", serif;
+}
+
+#msg::placeholder {
+  text-align: left;
+}
+
+.botao::after {
+  content: "";
+  display: inline-block;
+  background: url(./arrow-sm-right.svg);
+  width: 24px;
+  height: 24px;
+  transition: transform 0.2s;
+}

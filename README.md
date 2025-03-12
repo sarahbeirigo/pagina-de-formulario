@@ -16,27 +16,25 @@ O objetivo do Bikcraft é apresentar uma loja fictícia que comercializa bicicle
 ## 🔧 Tecnologias Utilizadas
 
 - **HTML5** - Para a estrutura do conteúdo
-- **CSS3** - Para a estilização e layout responsivo
+- **CSS, Taillwind e DaisyUI** - Para a estilização 
 - **Flexbox e Grid Layout** - Para a organização e disposição dos elementos
 
 ## 🚀 Funcionalidades
 
-- Página inicial com informações sobre o produto
-- Animações sutis em CSS para melhorar a interatividade visual
+- Página de "De sua opnião" para o cliente opinar sobre assuntos específicos
+- Formulário para contato
 
 ## 📂 Estrutura de Pastas
 
 ```bash
-Bikcraft/
+pagina-de-formulario/
 │
 ├── assets/                # Pasta de ativos
-│   ├── style.css          # Arquivo principal de estilos
-│   ├── colors.css         # Arquivo de cores
-│   ├── media-queries.css  # Arquivo para responsividade
+│   └── css/               # Pasta de estilização
 │   └── img/               # Pasta de imagens
-│
 ├── index.html             # Página inicial
 └── README.md              # Documentação do projeto
+└── desafio.md             # Desafio proposto pelo professor
 ```
 
 ## 🖥️ Como Rodar o Projeto Localmente
@@ -44,13 +42,13 @@ Bikcraft/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/sarahbeirigo/bikcraft-origamid.git
+git clone https://github.com/sarahbeirigo/pagina-de-formulario.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd bikcraft-origamid
+cd pagina-de-formulario
 ```
 
 3. Abra o arquivo `index.html` diretamente no navegador para visualizar o site.
@@ -59,13 +57,14 @@ cd bikcraft-origamid
 
 Neste projeto, aprofundei meu conhecimento em:
 
-- Desenvolvimento de layouts responsivos utilizando **Flexbox** e **CSS Grid**
+- Utilização de FrameWorks Css
 - Boas práticas de semântica em HTML5
-- Criação de estilos modularizados e reutilizáveis em CSS
+- Uso da tag forms
 
 ## 💡 Melhorias Futuras
 
-- [x] Design responsivo adaptado para diferentes tamanhos de tela (desktop e mobile)
+- [ ] Design responsivo adaptado para diferentes tamanhos de tela (desktop e mobile)
+- [ ] Implementação de lógica e funcinalidade para o forms utilizando JavaScript
 
 ## 📝 Contato
 

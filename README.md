@@ -3,15 +3,12 @@
 
 <h2 align="center"> 📝 Página de Formulário</h2>
 
-**Bikcraft** é um projeto de e-commerce fictício criado para a venda de bicicletas personalizadas. O site foi desenvolvido utilizando exclusivamente HTML e CSS, com foco em uma interface limpa, simples e moderna. Este projeto faz parte do curso **Origamid** e foi elaborado para praticar habilidades de front-end, com atenção especial ao design e à experiência do usuário.
-
 ![Página Preview](./assets/img/preview.png)
 
 
 
 ## 📋 Descrição do Projeto
-
-O objetivo do Bikcraft é apresentar uma loja fictícia que comercializa bicicletas exclusivas. O site é composto por uma única página contendo vária informações sobre o produto. Todo o layout foi construído utilizando apenas HTML para a estruturação e CSS para a estilização, sem o uso de JavaScript ou frameworks.
+O projeto desenvolvido para a matéria de Desenvolvimento Web no curso de Ciência da Computação tem como ojetivo criar uma aba de opiniões em uma página fictícia, focando no aprendizado da tag *form*, HTML semântico e frameworks CSS. A interface inclui campos para nome, assunto e comentários, com um design responsivo e acessível, estilizado com um framework CSS para melhor usabilidade.
 
 ## 🔧 Tecnologias Utilizadas
 

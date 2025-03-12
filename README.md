@@ -61,7 +61,7 @@ Neste projeto, aprofundei meu conhecimento em:
 ## 💡 Melhorias Futuras
 
 - [ ] Design responsivo adaptado para diferentes tamanhos de tela (desktop e mobile)
-- [ ] Implementação de lógica e funcinalidade para o forms utilizando JavaScript
+- [ ] Implementação de lógica e funcionalidade para o forms utilizando JavaScript
 
 ## 📝 Contato
 
